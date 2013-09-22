@@ -1,0 +1,10 @@
+{
+    "remoteAccessConsumerKey": "3MVG9A2kN3Bn17hs..OHRm_t9NKJQfjBtw97n5j5z9M2Yy_RfU5mT2QuWIJl_XjB_VcmJzb_WDn9H_f.Q8.pU",
+    "oauthRedirectURI": "sfdc://success",
+    "oauthScopes": ["web", "api"],
+    "isLocal": false,
+    "startPage": "apex/Enviraudit",
+    "errorPage": "error.html",
+    "shouldAuthenticate": true,
+    "attemptOfflineLoad": false
+}
